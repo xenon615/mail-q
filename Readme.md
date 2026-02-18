@@ -16,8 +16,8 @@ Place in the plugins folder and activate.
 ![tester2](img/image4.png)
 
 ## Queue
-![queue1](image5.png)
-![queue2](image6.png)
+![queue1](img/image5.png)
+![queue2](img/image6.png)
 
 ## Usage 
 ### Send Email
