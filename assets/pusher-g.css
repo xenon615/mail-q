@@ -1,0 +1,11 @@
+.alignleft.actions.queue {
+    display: flex;
+    padding: 0px 10px;
+    justify-content: space-between;
+}
+.alignleft.actions.queue > div {
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+

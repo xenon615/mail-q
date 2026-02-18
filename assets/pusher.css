@@ -1,0 +1,20 @@
+#mail-q-container {
+    padding: 30px;
+} 
+
+#mail-q-container #entries {
+    margin-bottom: 20px;
+    font-size: 1.3em;
+}
+#progress{
+    display: none;
+}
+
+#progress.active{
+    display: block;
+}
+
+.message {
+    font-size: 1.3em;
+}
+
